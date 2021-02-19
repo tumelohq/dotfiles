@@ -1,0 +1,6 @@
+cask 'microsoft-office'
+cask 'intune-company-portal'
+cask 'zeplin'
+cask 'slack'
+cask 'firefox'
+cask 'google-chrome'
