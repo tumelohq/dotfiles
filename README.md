@@ -11,7 +11,7 @@ To install the basic steps you'll use at Tumelo copy the following bit of code i
 ```shell
 xcode-select --install
 git clone https://github.com/tumelohq/dotfiles.git
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 cd dotfiles/base
 brew bundle
 
